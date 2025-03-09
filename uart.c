@@ -5,6 +5,7 @@
 #include <fcntl.h>
 #include <termios.h>
 #include <errno.h>
+lmfao
 
 int main() {
     const char *device = "/dev/serial0";  // Serial device on RPi 4
